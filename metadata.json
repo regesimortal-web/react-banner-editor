@@ -1,0 +1,5 @@
+{
+  "name": "GOOGLE A IBanner Editor V 011",
+  "description": "A modern, flexible banner editor built with React and Tailwind CSS. Users can add shapes, text, and images to a canvas, and manipulate their properties like size, position, color, and more. The application features a clean, intuitive interface inspired by professional design tools.",
+  "requestFramePermissions": []
+}
